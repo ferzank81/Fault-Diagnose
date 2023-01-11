@@ -1,0 +1,13 @@
+1. First, run the file named Main in the Feature Extraction folder. Obtain the features for the dataset using 2D-DWT.
+
+2. You can reduce the number of attributes later if you wish. For this, run the Main file in the Feature Selection folder. 
+   Select one of the PCA and Relief methods here.
+
+3. Run the Main program in the Machine Learning folder to get your final dataset into four different machine learning algorithms. 
+   The performance evaluation results of the methods are available in the variable named metric_data.
+
+4. Check the article given below to get more details.
+Katırcıoğlu F, Cingiz Z. 
+Fault diagnosis for overcharge and undercharge conditions in refrigeration systems using infrared thermal images. 
+Proceedings of the Institution of Mechanical Engineers, 
+Part E: Journal of Process Mechanical Engineering. 2023;0(0). doi:10.1177/09544089221148065
